@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-adapters-2.93.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-adapters-2.93-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-adapters-2.93-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-contrib-2.93.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-contrib-2.93-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-contrib-2.93-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-core-2.93.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-core-2.93-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-core-2.93-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-imgrec-2.93.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-imgrec-2.93-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-imgrec-2.93-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-ocr-2.93.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-ocr-2.93-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-ocr-2.93-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-samples-2.93.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-samples-2.93-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/lib/neuralLib/neuroph-samples-2.93-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
